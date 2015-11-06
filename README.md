@@ -28,7 +28,7 @@ And Facade (also in `config/app.php`)
 Publish the config settings:
 
 ```
-    php artisan vendor:publish --provider="Sipimokus\DNode\DNodeServiceProvider" --tag="config"
+    $ php artisan vendor:publish --provider="Sipimokus\DNode\DNodeServiceProvider" --tag="config"
 ```
 
 ## Examples
